@@ -4,4 +4,9 @@ title: About
 permalink: /about/
 ---
 
-yo bhe is here. I could pursue you to ditch microsoft and make you to install linux.
++ Full-time MCA student
++ A hacker
++ I may choose freedom over convenience in software that I use.
++ Debian Maintainer
++ For me Privacy is always First
++ And I prefer coffee over tea 
