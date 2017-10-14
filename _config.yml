@@ -1,6 +1,6 @@
 # Site settings
 title: Abhijith PA
-description: 'Abhijith here'
+description: 'Hello, I'm Abhijith. A Free Software enthusiast.'
 url: 'http://bhe.gitlab.io/jekl'
 baseurl: '/jekl'
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,11 +8,9 @@ baseurl: '/jekl'
 
 author:
   name: 'Abhijith PA'
-  email: ping@pong.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  email: mail@abhijithpa.me
+  twitter_username: abhijithpa
+  github_username:  bh-e
 
 defaults:
   -
